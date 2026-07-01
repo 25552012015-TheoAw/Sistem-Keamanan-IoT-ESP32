@@ -1,4 +1,4 @@
-# 🏠 Sistem Alarm Keamanan Rumah (IoT)
+# 🏠 Sistem Alarm Keamanan Rumah dengan Sensor PIR dan Notifikasi Blynk (IoT)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status">

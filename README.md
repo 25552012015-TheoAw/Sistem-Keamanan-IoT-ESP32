@@ -34,7 +34,7 @@ Proyek ini merupakan sistem keamanan rumah cerdas berbasis Internet of Things (I
 
 ## 🔗 Tautan Proyek
 * **Simulasi Wokwi:** [Klik di sini untuk melihat simulasi](https://wokwi.com/projects/468237106625905665)
-* **Dokumentasi Video:** [Klik di sini untuk melihat video demo](MASUKKAN_LINK_YOUTUBE_ANDA_DISINI)
+* **Dokumentasi Video:** [Klik di sini untuk melihat video demo](https://youtu.be/DaehCchIrtg?si=gYG1vAwLy1Lc1Kfl)
 
 ---
 *Proyek Akhir Sistem Mikrokontroler - Departemen Informatika, Universitas Teknologi Bandung*
